@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islam1l" alt="islam1l" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 Mid-Level Backend **Laravel**
 
 - 💬 Ask me about **Laravel**
 
